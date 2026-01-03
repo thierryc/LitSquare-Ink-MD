@@ -2,7 +2,7 @@
 
 Static site pipeline for the BluePen Proof privacy policy.
 
-Live site: https://thierryc.github.io/BluePen-Proof/
+Live site: https://thierryc.github.io/LitSquare-Ink-MD/
 
 ## Development
 
