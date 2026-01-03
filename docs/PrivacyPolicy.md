@@ -1,13 +1,13 @@
 ---
 title: LitSquare Ink MD Privacy Policy
 description: Privacy policy for the LitSquare Ink MD macOS application
-date: 2025-11-11
+date: 2026-01-03
 version: 1.1.0
 ---
 
 # LitSquare Ink MD Privacy Policy
 
-Updated: November 11, 2025
+Updated: January 3, 2026
 
 This Privacy Policy describes how the LitSquare Ink MD macOS application handles information. LitSquare Ink MD is developed by Thierry Charbonnel.
 
