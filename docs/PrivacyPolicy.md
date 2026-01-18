@@ -1,22 +1,22 @@
 ---
-title: LitSquare Ink MD Privacy Policy
-description: Privacy policy for the LitSquare Ink MD macOS application
+title: LitSquare MD Privacy Policy
+description: Privacy policy for the LitSquare MD macOS application
 date: 2026-01-06
 version: 1.1.1
 ---
 
-# LitSquare Ink MD Privacy Policy
+# LitSquare MD Privacy Policy
 
 Updated: January 6, 2026
 
-This Privacy Policy describes how the LitSquare Ink MD macOS application handles information. LitSquare Ink MD is developed by Thierry Charbonnel.
+This Privacy Policy describes how the LitSquare MD macOS application handles information. LitSquare MD is developed by Thierry Charbonnel.
 
 ## What We Collect
-- LitSquare Ink MD does not collect, store, or transmit any personal data to the developer.
+- LitSquare MD does not collect, store, or transmit any personal data to the developer.
 - The macOS platform may provide anonymized app analytics and crash reports through Apple’s services. These reports do not identify you personally. For details, see the Apple Privacy Policy at https://www.apple.com/legal/privacy/.
 
 ## How Your Text Is Processed
-- By default, LitSquare Ink MD uses Apple Intelligence models on your Mac. When available on your device, text processing happens locally and does not leave your computer.
+- By default, LitSquare MD uses Apple Intelligence models on your Mac. When available on your device, text processing happens locally and does not leave your computer.
 - You can choose other providers (Ollama and other third‑party AI providers). When you select a non‑local provider or configure Ollama to use a remote/hosted model, the text you submit will be sent to that provider according to their policies.
 - You are in control of the provider selection at all times. The app shows which provider is active in the UI and remembers your last choice on your device.
 
@@ -30,10 +30,10 @@ This Privacy Policy describes how the LitSquare Ink MD macOS application handles
 - The app stores minimal preferences (e.g., your last selected provider) in `UserDefaults` on your device. No text you process is stored by the app.
 
 ## Location Data
-- LitSquare Ink MD does not request, access, monitor, or collect your device’s location.
+- LitSquare MD does not request, access, monitor, or collect your device’s location.
 
 ## Data Sharing
-- LitSquare Ink MD does not share data with third parties on its own. If you choose a third‑party provider, your text will be sent to that provider to perform the requested processing, under that provider’s terms and privacy policy.
+- LitSquare MD does not share data with third parties on its own. If you choose a third‑party provider, your text will be sent to that provider to perform the requested processing, under that provider’s terms and privacy policy.
 
 ## Links to Other Sites
 - The app may contain links to third‑party websites. We are not responsible for the content, privacy policies, or practices of external sites.
@@ -44,7 +44,7 @@ This Privacy Policy describes how the LitSquare Ink MD macOS application handles
 - Review each provider’s terms and privacy policies for how they handle prompts, outputs, retention, and training.
 
 ## Data Retention
-- Because LitSquare Ink MD does not collect data on our servers, we do not retain any of your content and there is nothing to request for deletion from us.
+- Because LitSquare MD does not collect data on our servers, we do not retain any of your content and there is nothing to request for deletion from us.
 - Third‑party providers you choose may retain logs or content per their policies. Consult their documentation to manage retention or deletion.
 
 ## Additional Notes
